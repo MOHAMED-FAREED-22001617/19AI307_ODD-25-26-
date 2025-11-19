@@ -83,6 +83,3 @@ Thus, the Java program to find the index of a given element in an array was succ
 
 
 
-Developed by: Mohamed Fareed F
-RegisterNumber: 212222230082
-
